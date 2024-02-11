@@ -1,3 +1,5 @@
+# This project is no longer maintained because VRC has resolved the issue.
+
 # device16
 
 A SteamVR driver that makes lighthouse controller's tracked device index <16
